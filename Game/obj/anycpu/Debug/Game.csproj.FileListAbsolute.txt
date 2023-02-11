@@ -1,0 +1,6 @@
+/Users/mashablack/Projects/Game/Game/bin/Debug/Game.exe
+/Users/mashablack/Projects/Game/Game/bin/Debug/Game.pdb
+/Users/mashablack/Projects/Game/Game/obj/anycpu/Debug/Game.csproj.AssemblyReference.cache
+/Users/mashablack/Projects/Game/Game/obj/anycpu/Debug/Game.csproj.CoreCompileInputs.cache
+/Users/mashablack/Projects/Game/Game/obj/anycpu/Debug/Game.exe
+/Users/mashablack/Projects/Game/Game/obj/anycpu/Debug/Game.pdb
